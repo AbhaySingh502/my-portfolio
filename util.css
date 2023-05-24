@@ -2,3 +2,9 @@
     display: block;
     color: rgb(255, 196, 0);
 }
+
+.home{
+    background: url('/images/home.jpg') no-repeat;
+    background-size: contain;
+    background-position: center;
+}
